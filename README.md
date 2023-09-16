@@ -95,4 +95,4 @@ After configuration:
 
 ## Results: 
 
-
+The configuration of Dragino LPS8 Indoor LoRaWAN gateway for things network was configured successfully.
